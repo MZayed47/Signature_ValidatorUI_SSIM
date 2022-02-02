@@ -31,8 +31,7 @@ The signatures are compared using "Structural Similarity Index Method (SSIM)" Me
 
 ## Preview
 
-https://user-images.githubusercontent.com/30951078/152105000-f5cc8d96-7c4f-4625-bf8f-3fae407146b7.mp4
-
+https://user-images.githubusercontent.com/30951078/152109114-1f658ad7-1291-48bf-b074-27401c84e127.mp4
 
 
 ## Please open an issue if
