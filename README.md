@@ -2,7 +2,8 @@
 Match an input signature with existing signatures in database, along with the target user name as input.
 
 
-## First Create a dataset of Signatures in assets folder. Create folder with user names, such as: zayed, raihan, shamim, partho, etc. Then in each folder, store the signature images in ".jpg" or any format (Then change the format in code in respective places).
+## Dataset
+First Create a dataset of Signatures in assets folder. Create folder with user names, such as: zayed, raihan, shamim, partho, etc. Then in each folder, store the signature images in ".jpg" or any format (Then change the format in code in respective places).
 The store images can have names such as: zayed1.jpg, zayed2.jpg, zayed3.jpg, ... etc. Create as many users as you want.
 
 
